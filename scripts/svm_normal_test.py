@@ -84,7 +84,7 @@ def calc_precision_recall_f1(confusion, n_classes):
 
 
 if __name__ == '__main__':
-    datasource_path = os.path.join("/data/wuxilei/MaskWearingEstimation")
+    datasource_path = os.path.join("/data/MaskReminder")
     method_name = "padding"
     strategy_name = "normal"
     seq_len = 128

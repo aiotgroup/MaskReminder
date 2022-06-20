@@ -40,7 +40,7 @@ Meanwhile, we use a camera to record video streams and corresponding timestamps 
 
 In all, we have a dataset with 7600 segments of IMU readings. To be specific, **"Adjust The Mask"** contains a combinated actions, so we record this action 40 times(20 times on the left hand and 20 times on the right hand)
 
-$$ volunteers \times actions \times hands \times repeats = 20 \times 17 \times 2 \times 10 \add 20 \times 1 \times 2 \times 20 = 7600$$
+$$ volunteers \times actions \times hands \times repeats = 20 \times 17 \times 2 \times 10 + 20 \times 1 \times 2 \times 20 = 7600$$
 
 ### Actions
 

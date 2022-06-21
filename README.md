@@ -14,7 +14,7 @@
 
 ## How to run
 
-0. Download datasource from [here](XXX).
+0. Download datasource from [here](https://drive.google.com/file/d/1xPl7UPp9zHxBH4_XKDyfoaPTLY4EhqPH/view?usp=sharing).
 
 1. "git clone" this repository.  
 
